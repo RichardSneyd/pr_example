@@ -6,5 +6,6 @@ public class App {
         System.out.println("Added this to line 6 on main branch");
         System.out.println("Added this to line 7 on feature_b branch");
 
+        System.out.println("Added this to line 9 on feature_c branch");
     }
 }
